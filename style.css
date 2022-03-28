@@ -1,0 +1,53 @@
+h1 {
+  font-family: "Shizuru", cursive;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #012a4a;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+body {
+  font-family: "Sansita Swashed", cursive;
+  font-family: "Shizuru", cursive;
+  background-color: #a9d6e5;
+}
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #2a6f97;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 800;
+  width: 60%;
+}
+
+img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
